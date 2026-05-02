@@ -17,6 +17,8 @@ const port = 4000;
 const allowedOrigins = [
     "http://localhost:5173",
     "http://localhost:5174",
+    "doctor-ams.netlify.app",
+    "dams-admin.netlify.app",
 ];
 
 // Middleware
