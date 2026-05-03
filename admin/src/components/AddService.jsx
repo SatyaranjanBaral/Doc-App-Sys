@@ -3,7 +3,7 @@ import { addServiceStyles } from '../assets/dummyStyles';
 import { AlertTriangle, Clock, CheckCircle, XCircle, Plus,Image, Trash2, Calendar } from "lucide-react";
 
 const AddService = ({ serviceId }) => {
-    const API_BASE = "http://localhost:4000";
+    const API_BASE = "https://doc-app-sys.onrender.com";
 
      const fileRef = useRef(null);
   const [imagePreview, setImagePreview] = useState(null);

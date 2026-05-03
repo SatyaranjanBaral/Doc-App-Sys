@@ -8,7 +8,7 @@ import { BadgeIndianRupee, Calendar, Search } from "lucide-react";
 
 
 
-const API_BASE = "http://localhost:4000"; 
+const API_BASE = "https://doc-app-sys.onrender.com"; 
 
 // HELPER FUNCTION
 
