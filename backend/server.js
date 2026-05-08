@@ -19,6 +19,8 @@ const allowedOrigins = [
     "http://localhost:5174",
     "https://doctor-ams.netlify.app",
     "https://dams-admin.netlify.app",
+    'capacitor://localhost', 
+    'http://localhost'
 ];
 
 // Middleware
